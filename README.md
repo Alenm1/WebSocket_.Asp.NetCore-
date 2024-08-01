@@ -31,5 +31,3 @@ Visita nuestro proyecto en el siguiente enlace:
 - 🌐 [Sistema de Gestión de Cursos](http://www.cursosuna.somee.com/Carrito/Index)
 
 ---
-
-¡Gracias por usar nuestro Sistema de Gestión de Cursos!
