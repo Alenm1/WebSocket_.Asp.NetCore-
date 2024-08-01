@@ -23,7 +23,6 @@ Este proyecto demuestra un sistema de gestión de cursos utilizando WebSockets e
 ### Nota
 
 Asegúrate de cambiar la dirección IP en "MiProyectoNetCoreSocket" en `appsettings.json` para que apunten a la IP del servidor en:
-```json
 "urlsocket": "ws://192.168.209.72:9001"
 
 ### Enlace al Proyecto
