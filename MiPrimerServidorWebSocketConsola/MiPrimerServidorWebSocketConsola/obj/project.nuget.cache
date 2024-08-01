@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DpFvIy+XsOI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiPrimerServidorWebSocketConsola\\MiPrimerServidorWebSocketConsola\\MiPrimerServidorWebSocketConsola.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alenm\\.nuget\\packages\\fleck\\1.2.0\\fleck.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

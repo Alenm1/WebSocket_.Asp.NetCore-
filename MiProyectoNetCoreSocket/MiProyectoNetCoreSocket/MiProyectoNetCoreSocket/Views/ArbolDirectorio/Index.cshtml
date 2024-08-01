@@ -1,0 +1,77 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+<link rel="stylesheet" href="~/css/arboldirectorio.css" />
+
+<div class="d-flex">
+    <div class="box" id="directlist">
+        <ul class="directory-list">
+            <li class="folder">
+                assets
+                <ul>
+                    <li class="folder">
+                        css
+                        <ul>
+                            <li>typography.css</li>
+                            <li>layout.css</li>
+                            <li>modules.css</li>
+                            <li>states.css</li>
+                            <li>theme.css</li>
+                        </ul>
+                    </li>
+                    <li class="folder">
+                        js
+                        <ul>
+                            <li>custom.js</li>
+                            <li>jquery.js</li>
+                        </ul>
+                    </li>
+                    <li class="folder">
+                        images
+                        <ul>
+                            <li>logo.svg</li>
+                            <li>arrow-sprite.svg</li>
+                            <li>social-sprite.svg</li>
+                        </ul>
+                    </li>
+                    <li>functions.php</li>
+                </ul>
+            </li>
+            <li class="folder">
+                templates
+                <ul>
+                    <li class="folder">
+                        <a href="#just-makin-sure-links-look-ok">pages</a>
+                        <ul>
+                            <li><a href="#just-makin-sure-links-look-ok">about.tpl</a></li>
+                            <li>pricing.tpl</li>
+                            <li>contact.tpl</li>
+                            <li>home.tpl</li>
+                            <li>features.tpl</li>
+                        </ul>
+                    </li>
+                    <li>header.tpl</li>
+                    <li>menu.tpl</li>
+                    <li>footer.tpl</li>
+                </ul>
+            </li>
+            <li>index.php</li>
+            <li>style.css</li>
+        </ul>
+    </div>
+
+    <div class="box" style="height:200px">
+
+        <h3>Seleccione un archivo a subir</h3>
+        <input type="file" style="line-height:initial" />
+        <div class="text-center">
+            <button class="btn btn-success mt-3 text-center">Subir Archivo</button>
+        </div>
+
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/arboldirectorio.js"></script>
+}
+

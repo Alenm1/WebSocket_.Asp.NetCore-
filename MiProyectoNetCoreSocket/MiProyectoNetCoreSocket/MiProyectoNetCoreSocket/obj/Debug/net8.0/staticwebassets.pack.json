@@ -1,0 +1,365 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MiProyectoNetCoreSocket.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MiProyectoNetCoreSocket.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\archivos\\gpt.png",
+      "PackagePath": "staticwebassets\\archivos\\gpt.png"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\archivos\\python.png",
+      "PackagePath": "staticwebassets\\archivos\\python.png"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\archivos\\shiny_logo.png",
+      "PackagePath": "staticwebassets\\archivos\\shiny_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\archivos\\sql.png",
+      "PackagePath": "staticwebassets\\archivos\\sql.png"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\css\\arboldirectorio.css",
+      "PackagePath": "staticwebassets\\css\\arboldirectorio.css"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\css\\chat.css",
+      "PackagePath": "staticwebassets\\css\\chat.css"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\css\\menu.css",
+      "PackagePath": "staticwebassets\\css\\menu.css"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\css\\visor.css",
+      "PackagePath": "staticwebassets\\css\\visor.css"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\documentos\\excel\\GraficoAreaPDF.xlsx",
+      "PackagePath": "staticwebassets\\documentos\\excel\\GraficoAreaPDF.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\documentos\\excel\\ReportePies.xlsx",
+      "PackagePath": "staticwebassets\\documentos\\excel\\ReportePies.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\documentos\\powerpoint\\ArbolDirectorio.pptx",
+      "PackagePath": "staticwebassets\\documentos\\powerpoint\\ArbolDirectorio.pptx"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\documentos\\powerpoint\\Chat.pptx",
+      "PackagePath": "staticwebassets\\documentos\\powerpoint\\Chat.pptx"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\documentos\\powerpoint\\VisorArchivo.pptx",
+      "PackagePath": "staticwebassets\\documentos\\powerpoint\\VisorArchivo.pptx"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\documentos\\word\\Marcaciones.docx",
+      "PackagePath": "staticwebassets\\documentos\\word\\Marcaciones.docx"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\img\\imgno.png",
+      "PackagePath": "staticwebassets\\img\\imgno.png"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\img\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\img\\noimagen.jpg",
+      "PackagePath": "staticwebassets\\img\\noimagen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\js\\arboldirectorio.js",
+      "PackagePath": "staticwebassets\\js\\arboldirectorio.js"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\js\\carrito.js",
+      "PackagePath": "staticwebassets\\js\\carrito.js"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\js\\chat.js"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\js\\generic.js",
+      "PackagePath": "staticwebassets\\js\\generic.js"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\js\\menu.js",
+      "PackagePath": "staticwebassets\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\js\\producto.js",
+      "PackagePath": "staticwebassets\\js\\producto.js"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\js\\sweetalert.js",
+      "PackagePath": "staticwebassets\\js\\sweetalert.js"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\js\\visor.js",
+      "PackagePath": "staticwebassets\\js\\visor.js"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MiProyectoNetCoreSocket.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MiProyectoNetCoreSocket.props",
+      "PackagePath": "build\\MiProyectoNetCoreSocket.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MiProyectoNetCoreSocket.props",
+      "PackagePath": "buildMultiTargeting\\MiProyectoNetCoreSocket.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MiProyectoNetCoreSocket.props",
+      "PackagePath": "buildTransitive\\MiProyectoNetCoreSocket.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

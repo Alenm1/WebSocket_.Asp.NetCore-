@@ -1,0 +1,17 @@
+C:\Users\Alenm\Desktop\C# proyectos\MiPrimerServidorWebSocketConsola\MiPrimerServidorWebSocketConsola\bin\Debug\net6.0\MiPrimerServidorWebSocketConsola.exe
+C:\Users\Alenm\Desktop\C# proyectos\MiPrimerServidorWebSocketConsola\MiPrimerServidorWebSocketConsola\bin\Debug\net6.0\MiPrimerServidorWebSocketConsola.deps.json
+C:\Users\Alenm\Desktop\C# proyectos\MiPrimerServidorWebSocketConsola\MiPrimerServidorWebSocketConsola\bin\Debug\net6.0\MiPrimerServidorWebSocketConsola.runtimeconfig.json
+C:\Users\Alenm\Desktop\C# proyectos\MiPrimerServidorWebSocketConsola\MiPrimerServidorWebSocketConsola\bin\Debug\net6.0\MiPrimerServidorWebSocketConsola.dll
+C:\Users\Alenm\Desktop\C# proyectos\MiPrimerServidorWebSocketConsola\MiPrimerServidorWebSocketConsola\bin\Debug\net6.0\MiPrimerServidorWebSocketConsola.pdb
+C:\Users\Alenm\Desktop\C# proyectos\MiPrimerServidorWebSocketConsola\MiPrimerServidorWebSocketConsola\bin\Debug\net6.0\Fleck.dll
+C:\Users\Alenm\Desktop\C# proyectos\MiPrimerServidorWebSocketConsola\MiPrimerServidorWebSocketConsola\obj\Debug\net6.0\MiPrimerServidorWebSocketConsola.csproj.AssemblyReference.cache
+C:\Users\Alenm\Desktop\C# proyectos\MiPrimerServidorWebSocketConsola\MiPrimerServidorWebSocketConsola\obj\Debug\net6.0\MiPrimerServidorWebSocketConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alenm\Desktop\C# proyectos\MiPrimerServidorWebSocketConsola\MiPrimerServidorWebSocketConsola\obj\Debug\net6.0\MiPrimerServidorWebSocketConsola.AssemblyInfoInputs.cache
+C:\Users\Alenm\Desktop\C# proyectos\MiPrimerServidorWebSocketConsola\MiPrimerServidorWebSocketConsola\obj\Debug\net6.0\MiPrimerServidorWebSocketConsola.AssemblyInfo.cs
+C:\Users\Alenm\Desktop\C# proyectos\MiPrimerServidorWebSocketConsola\MiPrimerServidorWebSocketConsola\obj\Debug\net6.0\MiPrimerServidorWebSocketConsola.csproj.CoreCompileInputs.cache
+C:\Users\Alenm\Desktop\C# proyectos\MiPrimerServidorWebSocketConsola\MiPrimerServidorWebSocketConsola\obj\Debug\net6.0\MiPrimer.09B2AE4C.Up2Date
+C:\Users\Alenm\Desktop\C# proyectos\MiPrimerServidorWebSocketConsola\MiPrimerServidorWebSocketConsola\obj\Debug\net6.0\MiPrimerServidorWebSocketConsola.dll
+C:\Users\Alenm\Desktop\C# proyectos\MiPrimerServidorWebSocketConsola\MiPrimerServidorWebSocketConsola\obj\Debug\net6.0\refint\MiPrimerServidorWebSocketConsola.dll
+C:\Users\Alenm\Desktop\C# proyectos\MiPrimerServidorWebSocketConsola\MiPrimerServidorWebSocketConsola\obj\Debug\net6.0\MiPrimerServidorWebSocketConsola.pdb
+C:\Users\Alenm\Desktop\C# proyectos\MiPrimerServidorWebSocketConsola\MiPrimerServidorWebSocketConsola\obj\Debug\net6.0\MiPrimerServidorWebSocketConsola.genruntimeconfig.cache
+C:\Users\Alenm\Desktop\C# proyectos\MiPrimerServidorWebSocketConsola\MiPrimerServidorWebSocketConsola\obj\Debug\net6.0\ref\MiPrimerServidorWebSocketConsola.dll

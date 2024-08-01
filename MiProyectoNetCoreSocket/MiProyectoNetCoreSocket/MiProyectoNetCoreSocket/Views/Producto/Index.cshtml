@@ -1,0 +1,78 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" onclick="Nuevo()" data-bs-toggle="modal" data-bs-target="#exampleModal" id="btnNuevo">
+    Nuevo
+</button>
+
+<form id="frmBusqueda" method="post">
+    <div class="input-group mb-3 mt-3">
+        <input type="text" class="form-control" name="descripcion"
+               placeholder="Ingrese descripcion producto">
+        <button class="btn btn-primary" type="button" id="button-addon2" onclick="BuscarDatos()">Buscar</button>
+    </div>
+</form>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="lblTitulo"></h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                
+                <form id="frmProducto" method="post">
+                    <div class="row">
+
+                        <div class="col-md-6">
+                            <label>Id Producto</label>
+                            <input type="text" name="iidproducto" readonly class="form-control" />
+                        </div>
+
+                        <div class="col-md-6">
+                            <label>Descripcion Producto</label>
+                            <input type="text" name="description" class="form-control" />
+                        </div>
+
+                        <div class="col-md-6">
+                            <label>Precio</label>
+                            <input type="number" name="precio" class="form-control" min="0" />
+                        </div>
+
+                        <div class="col-md-6">
+                            <label>Vacantes Disponibles</label>
+                            <input type="number" name="stock" class=" form-control" min="0" />
+                        </div>
+
+                        <div class="col-md-6">
+                            <label>Adjunte una Foto</label>
+                            <img width="150" id="imgFoto" height="150" class="mb-2" name="foto" />
+                            <input id="fotoEnviar" type="file" name="fotoEnviar" accept=".jpg,.png" />
+                        </div>
+                
+                    </div>
+                 </form>
+                   
+                
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" id="btnCancelar" data-bs-dismiss="modal">Cancelar</button>
+                <button type="button" class="btn btn-primary" onclick="Guardar()">Guardar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id="divTabla">
+
+</div>
+
+@section Scripts {
+    <script src="~/js/producto.js"></script>
+}

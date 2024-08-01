@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F865D5F7-429A-4D61-BB6C-7738D8D6FE2B}|MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket.csproj|c:\\users\\alenm\\desktop\\c# proyectos\\miproyectonetcoresocket\\miproyectonetcoresocket\\miproyectonetcoresocket\\wwwroot\\js\\carrito.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F865D5F7-429A-4D61-BB6C-7738D8D6FE2B}|MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket.csproj|solutionrelative:miproyectonetcoresocket\\wwwroot\\js\\carrito.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F865D5F7-429A-4D61-BB6C-7738D8D6FE2B}|MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket.csproj|c:\\users\\alenm\\desktop\\c# proyectos\\miproyectonetcoresocket\\miproyectonetcoresocket\\miproyectonetcoresocket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F865D5F7-429A-4D61-BB6C-7738D8D6FE2B}|MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket.csproj|solutionrelative:miproyectonetcoresocket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "carrito.js",
+              "DocumentMoniker": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\js\\carrito.js",
+              "RelativeDocumentMoniker": "MiProyectoNetCoreSocket\\wwwroot\\js\\carrito.js",
+              "ToolTip": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\wwwroot\\js\\carrito.js",
+              "RelativeToolTip": "MiProyectoNetCoreSocket\\wwwroot\\js\\carrito.js",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-01T14:07:50.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\appsettings.json",
+              "RelativeDocumentMoniker": "MiProyectoNetCoreSocket\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alenm\\Desktop\\C# proyectos\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\MiProyectoNetCoreSocket\\appsettings.json",
+              "RelativeToolTip": "MiProyectoNetCoreSocket\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T12:27:18.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

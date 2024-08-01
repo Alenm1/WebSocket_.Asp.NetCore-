@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<link rel="stylesheet" href="~/css/visor.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" />
+
+
+<div id="to_upload">
+    <i class="fa fa-cloud-upload"></i>
+    <a href="#">
+        Seleccioné
+        <input type="file" id="imagenes" name="imagenes[]" accept="image/*" />
+    </a>
+    o arrastra aqu&iacute; las imagenes a subir.
+    <div></div>
+</div>
+
+
+@section Scripts {
+    <script src="~/js/visor.js"></script>
+}
+
+

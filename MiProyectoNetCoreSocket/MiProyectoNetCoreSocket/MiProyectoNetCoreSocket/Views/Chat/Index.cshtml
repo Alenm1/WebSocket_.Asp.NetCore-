@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<link rel="stylesheet" href="~/css/chat.css" />
+
+<div class="mb-3 d-flex">
+    <b for="staticEmail" class="col-form-label m-2">Nombre del Usuario con quien chateara</b>
+    <div>
+        <input type="text" class="form-control m-2" id="txtnombreusuario">
+    </div>
+</div>
+
+<div id="chat">
+    <div class="chat_header">Chat en Tiempo Real</div>
+    <div id="chat_s">
+        @* <div class="chat chat_other"><div class="chat_message">Hola amigo</div><div class="chat_name">Licito</div></div> *@
+
+    </div>
+
+    <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"></iframe>
+    <form id="ss-form"
+          action="https://docs.google.com/forms/d/1-PRLoHTtgldV5cNTvmVyjf-rf1p1kLhzKGXn2i1XGhQ/formResponse" method="POST" target="hidden_iframe">
+        <input name="entry.1732478127" title="" class="ss-q-short" id="txtmensaje" dir="auto" aria-label="Message"
+               type="text" value="">
+        <input name="draftResponse" type="hidden" value='[,,"-2195881827543510175"]&#10;'>
+        <input name="pageHistory" type="hidden" value="0">
+        <input name="fvv" type="hidden" value="0">
+        <input name="fbzx" type="hidden" value="-2195881827543510175">
+        <input name="submit" class="jfk-button jfk-button-action " id="ss-submit" type="submit" value="Enviar" onClick="Enviar()">
+    </form>
+</div>
+
+@section Scripts {
+    <script src="~/js/chat.js"></script>
+}
+

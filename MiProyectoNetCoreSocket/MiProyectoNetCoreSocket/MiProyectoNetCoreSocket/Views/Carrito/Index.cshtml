@@ -1,0 +1,77 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="input-group mb-3 mt-3">
+    <input type="text" class="form-control" placeholder="Ingrese nombre producto" id="txtdescripcion"
+           aria-label="Recipient's username" aria-describedby="button-addon2">
+    <button class="btn btn-secondary" type="button" id="button-addon2" onclick="Buscar()">Buscar</button>
+</div>
+
+<div id="divCarrito"></div>
+
+<!-- Modal -->
+<div class="modal fade" id="nombreModal" tabindex="-1" aria-labelledby="nombreModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="nombreModalLabel">Nombre del Producto</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p id="modalDescription"></p>
+                <input type="text" class="form-control" id="dni" placeholder="Ingrese su DNI">
+                <button id="buscarDniBtn" class="btn btn-primary mt-2">Ingresar</button>
+                <input type="text" class="form-control mt-2" id="nombre" placeholder="Nombre" readonly>
+                <input type="text" class="form-control mt-2" id="apellido" placeholder="Apellido" readonly>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                <button type="button" class="btn btn-primary" onclick="enviarNombre()">Enviar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal de éxito -->
+<div class="modal fade" id="exitoModal" tabindex="-1" aria-labelledby="exitoModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exitoModalLabel">Registro Exitoso</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                Felicidades, usted se ha registrado al curso exitosamente. Gracias por usar nuestra plataforma.
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/carrito.js"></script>
+    <script>
+        function enviarNombre() {
+            var nombre = document.getElementById('nombre').value; // Usar el nombre ya obtenido
+            var apellido = document.getElementById('apellido').value; // Usar el apellido ya obtenido
+            var modal = bootstrap.Modal.getInstance(document.getElementById('nombreModal'));
+            modal.hide();
+            limpiarModal();
+            mostrarAlertaRegistro();
+        }
+
+        function mostrarAlertaRegistro() {
+            var exitoModal = new bootstrap.Modal(document.getElementById('exitoModal'), {});
+            exitoModal.show();
+        }
+
+        function limpiarModal() {
+            document.getElementById("dni").value = "";
+            document.getElementById("nombre").value = "";
+            document.getElementById("apellido").value = "";
+        }
+    </script>
+}

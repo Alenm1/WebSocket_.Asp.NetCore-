@@ -1,0 +1,70 @@
+﻿body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#to_upload {
+    background-color: #FAFAFA;
+    border: 1px dashed #BBB;
+    padding: 10px;
+    text-align: center;
+}
+
+    #to_upload a {
+        display: inline-block;
+        position: relative;
+        overflow: hidden;
+        vertical-align: top;
+        text-decoration: none;
+    }
+
+        #to_upload a input {
+            position: absolute;
+            top: 0;
+            left: 0;
+            opacity: 0;
+            z-index: 10;
+            width: 100%;
+        }
+
+    #to_upload > div {
+        margin-top: 10px;
+        overflow: hidden;
+    }
+        /* 5 imagenes por fila */
+        #to_upload > div > div {
+            width: 220px;
+            height: 165px;
+            padding-right: 1%;
+            padding-left: 1%;
+            float: left;
+        }
+
+.dd-thumbnail {
+    min-height: 140px;
+    /* todo:imagenes perfectas en el div */
+    background-size: cover;
+}
+
+    .dd-thumbnail i {
+        /*icon size*/
+        font-size: 50px;
+        margin-top: 40px;
+    }
+
+.dd-file-info {
+    width: 100%
+}
+
+    .dd-file-info span {
+        float: left;
+        font-size: 13px;
+        padding-top: 3px;
+    }
+
+    .dd-file-info button {
+        float: right;
+        background: none;
+        border: none;
+        outline: none;
+        color: #444444;
+    }

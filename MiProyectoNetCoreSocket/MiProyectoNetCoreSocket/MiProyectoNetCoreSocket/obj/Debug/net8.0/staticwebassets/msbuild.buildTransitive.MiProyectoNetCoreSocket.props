@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MiProyectoNetCoreSocket.props" />
+</Project>
